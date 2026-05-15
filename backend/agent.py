@@ -6,11 +6,10 @@ from langchain.schema import HumanMessage, AIMessage, SystemMessage
 
 load_dotenv()
 
-# ---------- Conexion Neo4j ----------
-
 NEO4J_URI = os.getenv("NEO4J_URI")
 NEO4J_USER = os.getenv("NEO4J_USERNAME", "neo4j")
 NEO4J_PASSWORD = os.getenv("NEO4J_PASSWORD")
+NEO4J_DATABASE = os.getenv("NEO4J_DATABASE", "580ee8e5")
 
 driver = GraphDatabase.driver(
     NEO4J_URI,
@@ -19,7 +18,7 @@ driver = GraphDatabase.driver(
 
 try:
     driver.verify_connectivity()
-    print("✅ Conexion a Neo4j exitosa")
+    print(f"✅ Conexion a Neo4j exitosa — DB: {NEO4J_DATABASE}")
 except Exception as e:
     print(f"❌ Error conectando a Neo4j: {e}")
 
@@ -27,7 +26,7 @@ except Exception as e:
 def get_schema() -> str:
     return """
 Nodos y propiedades:
-- Publicacion: id_publicacion, titulo, anio, numero_citas, palabra_clave
+- Publicacion: id_publicacion, titulo, anio (entero), numero_citas (entero), palabra_clave
 - Autor: nombre_autor
 - Institucion: nombre_institucion, pais
 - AreaIA: nombre
@@ -39,21 +38,30 @@ Relaciones:
 - (Publicacion)-[:PERTENECE_A]->(AreaIA)
 - (Publicacion)-[:PUBLICADA_EN]->(Venue)
 
-Valores exactos de AreaIA.nombre: 'NLP', 'Machine Learning', 'IA Generativa', 'Vision Computacional', 'Sistemas de Recomendacion', 'Robotica'
+Valores EXACTOS de AreaIA.nombre (usa estos valores exactos con tildes):
+- 'NLP'
+- 'Machine Learning'
+- 'IA Generativa'
+- 'Visión Computacional'
+- 'Sistemas de Recomendación'
+- 'Robótica'
+
 Valores exactos de Venue.tipo: 'Revista', 'Conferencia'
 Anios disponibles: 2020, 2021, 2022, 2023, 2024, 2025
+Paises: España, Estados Unidos, Argentina, Perú, Colombia, Chile, Suiza, Alemania, México, Reino Unido, Brasil, Canadá
 """.strip()
 
 
 def execute_cypher(query: str) -> list:
-    with driver.session(database=os.getenv("NEO4J_DATABASE", "580ee8e5")) as session:
+    print(f"🔍 Query: {query}")
+    with driver.session(database=NEO4J_DATABASE) as session:
         result = session.run(query)
         return [dict(record) for record in result]
 
 
 DESTRUCTIVE_KEYWORDS = [
     "CREATE", "MERGE", "DELETE", "DETACH", "SET",
-    "REMOVE", "DROP", "LOAD CSV", "CALL {"
+    "REMOVE", "DROP", "LOAD CSV", "CALL {", "SELECT"
 ]
 
 
@@ -75,21 +83,43 @@ ESQUEMA DEL GRAFO:
 TU FLUJO DE TRABAJO:
 1. Analiza la pregunta del usuario (y el historial si existe).
 2. Si la pregunta es sobre publicaciones, autores, instituciones, areas o venues, genera UN SOLO query Cypher valido entre etiquetas <cypher> y </cypher>.
-3. Recibiras los resultados y debes responder en lenguaje natural, claro y conciso, en español.
+3. Recibiras los resultados y debes responder en lenguaje natural, claro y conciso, en espanol.
 4. Si la pregunta NO esta relacionada con la base de datos, responde EXACTAMENTE: "Solo puedo responder preguntas sobre las publicaciones academicas de IA en la base de datos."
 
-REGLAS:
-- SOLO queries de lectura (MATCH, RETURN, WHERE, ORDER BY, LIMIT).
-- NUNCA uses CREATE, MERGE, DELETE, SET, REMOVE, DROP.
-- Usa toLower() y CONTAINS para busquedas flexibles.
-- Si el usuario dice "esas", "esos", "los anteriores", usa el historial.
+REGLAS CRITICAS:
+- SOLO queries de lectura: MATCH, RETURN, WHERE, ORDER BY, LIMIT, WITH, COUNT.
+- NUNCA uses CREATE, MERGE, DELETE, SET, REMOVE, DROP, SELECT.
+- Para buscar por area de IA SIEMPRE usa el valor exacto con igualdad:
+  * El usuario diga "vision", "Vision", "Visión" o "VISION" → WHERE a.nombre = 'Visión Computacional'
+  * El usuario diga "nlp", "NLP" → WHERE a.nombre = 'NLP'
+  * El usuario diga "machine learning", "ML" → WHERE a.nombre = 'Machine Learning'
+  * El usuario diga "ia generativa", "generativa" → WHERE a.nombre = 'IA Generativa'
+  * El usuario diga "recomendacion", "recomendación" → WHERE a.nombre = 'Sistemas de Recomendación'
+  * El usuario diga "robotica", "robótica" → WHERE a.nombre = 'Robótica'
+- Para paises, autores, instituciones y titulos usa toLower() y CONTAINS
+- Para anios: WHERE p.anio = 2024
+- Si el usuario dice "esas", "esos", "los anteriores": usa el historial
 - Nunca inventes datos. Si no hay resultados, dilo.
-- Siempre usa LIMIT 20.
+- Siempre LIMIT 20.
 
-EJEMPLOS:
-- MATCH (p:Publicacion)-[:PERTENECE_A]->(a:AreaIA) WHERE toLower(a.nombre) CONTAINS 'nlp' RETURN p.titulo, p.anio LIMIT 20
-- MATCH (a:Autor)-[:ESCRIBIO]->(p:Publicacion) RETURN a.nombre_autor, count(p) AS total ORDER BY total DESC LIMIT 10
-- MATCH (p:Publicacion) WHERE p.anio = 2024 RETURN p.titulo, p.numero_citas ORDER BY p.numero_citas DESC LIMIT 20
+EJEMPLOS CORRECTOS:
+MATCH (p:Publicacion)-[:PERTENECE_A]->(a:AreaIA)
+WHERE a.nombre = 'Visión Computacional'
+RETURN p.titulo, p.anio, p.numero_citas ORDER BY p.numero_citas DESC LIMIT 20
+
+MATCH (p:Publicacion)-[:PERTENECE_A]->(a:AreaIA)
+WHERE a.nombre = 'NLP'
+RETURN p.titulo, p.anio LIMIT 20
+
+MATCH (a:Autor)-[:ESCRIBIO]->(p:Publicacion)
+RETURN a.nombre_autor, count(p) AS total ORDER BY total DESC LIMIT 10
+
+MATCH (p:Publicacion) WHERE p.anio = 2024
+RETURN p.titulo, p.numero_citas ORDER BY p.numero_citas DESC LIMIT 20
+
+MATCH (i:Institucion)
+WHERE toLower(i.pais) CONTAINS 'per'
+RETURN i.nombre_institucion, i.pais LIMIT 20
 """
 
 
@@ -126,7 +156,7 @@ def run_agent(user_question: str, history: list = []) -> str:
         return "No pude generar una consulta valida. Puedes reformular tu pregunta?"
 
     if is_destructive(cypher_query):
-        return "No puedo ejecutar operaciones de escritura sobre la base de datos."
+        return "Solo puedo responder preguntas sobre las publicaciones academicas de IA en la base de datos."
 
     try:
         results = execute_cypher(cypher_query)
@@ -161,7 +191,7 @@ Query ejecutado:
 Resultados:
 {str(results[:20])}
 
-Responde en español de forma clara y concisa, basandote SOLO en estos resultados."""
+Responde en espanol de forma clara y concisa, basandote SOLO en estos resultados. No inventes nada."""
 
     messages.append(AIMessage(content=llm_output))
     messages.append(HumanMessage(content=final_prompt))
