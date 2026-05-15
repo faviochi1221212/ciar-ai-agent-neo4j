@@ -1,0 +1,346 @@
+id_publicacion,titulo,año,area_ia,palabra_clave,venue,tipo_venue,numero_citas,nombre_autor,orden_autor,nombre_institucion,pais_institucion
+PUB001,Modelos multimodales aplicados a banca digital,2024,IA Generativa,prompt engineering,Computación y Sistemas,Revista,7,Diego Vargas,1,Universidad Politécnica de Madrid,España
+PUB001,Modelos multimodales aplicados a banca digital,2024,IA Generativa,prompt engineering,Computación y Sistemas,Revista,7,Renata Villanueva,2,Universidad de Barcelona,España
+PUB001,Modelos multimodales aplicados a banca digital,2024,IA Generativa,prompt engineering,Computación y Sistemas,Revista,7,Paula Bustamante,3,Stanford University,Estados Unidos
+PUB001,Modelos multimodales aplicados a banca digital,2024,IA Generativa,prompt engineering,Computación y Sistemas,Revista,7,Andrea Salas,4,Universidad de Buenos Aires,Argentina
+PUB002,Personalización de contenido en plataformas de agricultura,2024,Sistemas de Recomendación,ranking,KDD,Conferencia,19,Diego Vargas,1,Universidad Politécnica de Madrid,España
+PUB002,Personalización de contenido en plataformas de agricultura,2024,Sistemas de Recomendación,ranking,KDD,Conferencia,19,Joaquín Espinoza,2,Universidad de Barcelona,España
+PUB002,Personalización de contenido en plataformas de agricultura,2024,Sistemas de Recomendación,ranking,KDD,Conferencia,19,Olivia Brown,3,Universidad de Barcelona,España
+PUB002,Personalización de contenido en plataformas de agricultura,2024,Sistemas de Recomendación,ranking,KDD,Conferencia,19,Juan Torres,4,Universidad de Lima,Perú
+PUB002,Personalización de contenido en plataformas de agricultura,2024,Sistemas de Recomendación,ranking,KDD,Conferencia,19,Gabriela Morales,5,Universidad de Buenos Aires,Argentina
+PUB003,Predicción de fraude bancario mediante aprendizaje automático,2024,Machine Learning,random forest,CLEI,Conferencia,33,Jian Wang,1,Universidad Politécnica de Madrid,España
+PUB003,Predicción de fraude bancario mediante aprendizaje automático,2024,Machine Learning,random forest,CLEI,Conferencia,33,Rodrigo Cárdenas,2,Universidad de Buenos Aires,Argentina
+PUB004,Predicción de enfermedades mediante aprendizaje automático,2025,Machine Learning,XGBoost,NeurIPS,Conferencia,0,Alejandro Soto,1,Universidad de los Andes,Colombia
+PUB004,Predicción de enfermedades mediante aprendizaje automático,2025,Machine Learning,XGBoost,NeurIPS,Conferencia,0,Isabella Núñez,2,University of California Berkeley,Estados Unidos
+PUB005,Modelo predictivo para noticias periodísticas,2022,Machine Learning,interpretabilidad,JIISIC,Conferencia,68,Hugo Carrasco,1,Pontificia Universidad Católica de Chile,Chile
+PUB005,Modelo predictivo para noticias periodísticas,2022,Machine Learning,interpretabilidad,JIISIC,Conferencia,68,Liam Anderson,2,Universidad del Pacífico,Perú
+PUB005,Modelo predictivo para noticias periodísticas,2022,Machine Learning,interpretabilidad,JIISIC,Conferencia,68,Felipe Cárcamo,3,ETH Zürich,Suiza
+PUB005,Modelo predictivo para noticias periodísticas,2022,Machine Learning,interpretabilidad,JIISIC,Conferencia,68,Jian Wang,4,Universidad Politécnica de Madrid,España
+PUB005,Modelo predictivo para noticias periodísticas,2022,Machine Learning,interpretabilidad,JIISIC,Conferencia,68,Joaquín Espinoza,5,Universidad de Barcelona,España
+PUB006,Detección de anomalías en banca digital,2024,Machine Learning,XGBoost,Computación y Sistemas,Revista,25,Alejandro Soto,1,Universidad de los Andes,Colombia
+PUB006,Detección de anomalías en banca digital,2024,Machine Learning,XGBoost,Computación y Sistemas,Revista,25,Noah Williams,2,Universidad Politécnica de Madrid,España
+PUB006,Detección de anomalías en banca digital,2024,Machine Learning,XGBoost,Computación y Sistemas,Revista,25,Liam Anderson,3,Universidad del Pacífico,Perú
+PUB006,Detección de anomalías en banca digital,2024,Machine Learning,XGBoost,Computación y Sistemas,Revista,25,Kwame Mensah,4,Universidad de Buenos Aires,Argentina
+PUB007,Análisis automático de pesca artesanal mediante visión computacional,2022,Visión Computacional,reconocimiento facial,ICCV,Conferencia,75,Andrea Salas,1,Universidad de Buenos Aires,Argentina
+PUB007,Análisis automático de pesca artesanal mediante visión computacional,2022,Visión Computacional,reconocimiento facial,ICCV,Conferencia,75,Óscar Cornejo,2,Universidad Nacional de Ingeniería,Perú
+PUB008,Resumen automático de documentos noticias periodísticas,2023,NLP,tokenización,ACL,Conferencia,41,Sofía Castillo,1,University of California Berkeley,Estados Unidos
+PUB008,Resumen automático de documentos noticias periodísticas,2023,NLP,tokenización,ACL,Conferencia,41,Lucía Ramírez,2,Technische Universität München,Alemania
+PUB008,Resumen automático de documentos noticias periodísticas,2023,NLP,tokenización,ACL,Conferencia,41,Natalia Bravo,3,Universidad Nacional Mayor de San Marcos,Perú
+PUB008,Resumen automático de documentos noticias periodísticas,2023,NLP,tokenización,ACL,Conferencia,41,Esteban Pacheco,4,Universidad Nacional Autónoma de México,México
+PUB008,Resumen automático de documentos noticias periodísticas,2023,NLP,tokenización,ACL,Conferencia,41,Mei Li,5,University of California Berkeley,Estados Unidos
+PUB009,Personalización de contenido en plataformas de salud pública,2025,Sistemas de Recomendación,embeddings de usuario,KDD,Conferencia,7,Daniela Ponce,1,Universidad del Pacífico,Perú
+PUB009,Personalización de contenido en plataformas de salud pública,2025,Sistemas de Recomendación,embeddings de usuario,KDD,Conferencia,7,Kwame Mensah,2,Universidad de Buenos Aires,Argentina
+PUB010,Análisis de sentimiento en minería usando transformers,2021,NLP,resumen automático,JIISIC,Conferencia,51,María Quispe,1,University of Oxford,Reino Unido
+PUB010,Análisis de sentimiento en minería usando transformers,2021,NLP,resumen automático,JIISIC,Conferencia,51,Lucía Ramírez,2,Technische Universität München,Alemania
+PUB010,Análisis de sentimiento en minería usando transformers,2021,NLP,resumen automático,JIISIC,Conferencia,51,Camila Rojas,3,Pontificia Universidad Católica del Perú,Perú
+PUB010,Análisis de sentimiento en minería usando transformers,2021,NLP,resumen automático,JIISIC,Conferencia,51,Beatriz Olivares,4,Universidad Nacional de Ingeniería,Perú
+PUB011,Clasificación de imágenes banca digital usando transfer learning,2021,Visión Computacional,data augmentation,JIISIC,Conferencia,41,Mei Li,1,University of California Berkeley,Estados Unidos
+PUB011,Clasificación de imágenes banca digital usando transfer learning,2021,Visión Computacional,data augmentation,JIISIC,Conferencia,41,Emma Johnson,2,Tecnológico de Monterrey,México
+PUB011,Clasificación de imágenes banca digital usando transfer learning,2021,Visión Computacional,data augmentation,JIISIC,Conferencia,41,Isabella Núñez,3,University of California Berkeley,Estados Unidos
+PUB011,Clasificación de imágenes banca digital usando transfer learning,2021,Visión Computacional,data augmentation,JIISIC,Conferencia,41,Sebastián Paredes,4,Universidad Nacional de Ingeniería,Perú
+PUB011,Clasificación de imágenes banca digital usando transfer learning,2021,Visión Computacional,data augmentation,JIISIC,Conferencia,41,Patricia Salinas,5,Universidad Nacional Mayor de San Marcos,Perú
+PUB012,Filtrado colaborativo aplicado a educación superior,2023,Sistemas de Recomendación,embeddings de usuario,Information Sciences,Revista,34,Verónica Tapia,1,Pontificia Universidad Católica del Perú,Perú
+PUB012,Filtrado colaborativo aplicado a educación superior,2023,Sistemas de Recomendación,embeddings de usuario,Information Sciences,Revista,34,Esteban Pacheco,2,Universidad Nacional Autónoma de México,México
+PUB013,Aplicación de LLMs en documentos legales,2023,IA Generativa,GPT,AAAI,Conferencia,9,Valentina Cáceres,1,Pontificia Universidad Católica de Chile,Chile
+PUB013,Aplicación de LLMs en documentos legales,2023,IA Generativa,GPT,AAAI,Conferencia,9,Luis Fernando Ríos,2,Stanford University,Estados Unidos
+PUB013,Aplicación de LLMs en documentos legales,2023,IA Generativa,GPT,AAAI,Conferencia,9,Carlos Mendoza,3,Pontificia Universidad Católica de Chile,Chile
+PUB014,Sistema de manipulación robótica para salud pública,2025,Robótica,control,ICRA,Conferencia,6,Hiroshi Sato,1,Universidad del Pacífico,Perú
+PUB014,Sistema de manipulación robótica para salud pública,2025,Robótica,control,ICRA,Conferencia,6,Patricia Salinas,2,Universidad Nacional Mayor de San Marcos,Perú
+PUB014,Sistema de manipulación robótica para salud pública,2025,Robótica,control,ICRA,Conferencia,6,Marco Rossi,3,University of Oxford,Reino Unido
+PUB014,Sistema de manipulación robótica para salud pública,2025,Robótica,control,ICRA,Conferencia,6,Mauricio Toledo,4,University of Oxford,Reino Unido
+PUB015,Filtrado colaborativo aplicado a redes sociales,2023,Sistemas de Recomendación,personalización,RecSys,Conferencia,60,Diego Vargas,1,Universidad Politécnica de Madrid,España
+PUB015,Filtrado colaborativo aplicado a redes sociales,2023,Sistemas de Recomendación,personalización,RecSys,Conferencia,60,Carlos Mendoza,2,Pontificia Universidad Católica de Chile,Chile
+PUB016,Sistema de recomendación para noticias periodísticas,2025,Sistemas de Recomendación,filtrado colaborativo,JIISIC,Conferencia,3,Aisha Okonkwo,1,Pontificia Universidad Católica de Chile,Chile
+PUB016,Sistema de recomendación para noticias periodísticas,2025,Sistemas de Recomendación,filtrado colaborativo,JIISIC,Conferencia,3,Joaquín Espinoza,2,Universidad de Barcelona,España
+PUB016,Sistema de recomendación para noticias periodísticas,2025,Sistemas de Recomendación,filtrado colaborativo,JIISIC,Conferencia,3,Mónica Delgado,3,Universidad de São Paulo,Brasil
+PUB016,Sistema de recomendación para noticias periodísticas,2025,Sistemas de Recomendación,filtrado colaborativo,JIISIC,Conferencia,3,Aiko Tanaka,4,Technische Universität München,Alemania
+PUB017,Segmentación de imágenes atención al cliente con deep learning,2023,Visión Computacional,segmentación,Revista Iberoamericana de IA,Revista,47,Fernando Aguirre,1,Universidad de los Andes,Colombia
+PUB017,Segmentación de imágenes atención al cliente con deep learning,2023,Visión Computacional,segmentación,Revista Iberoamericana de IA,Revista,47,Beatriz Olivares,2,Universidad Nacional de Ingeniería,Perú
+PUB017,Segmentación de imágenes atención al cliente con deep learning,2023,Visión Computacional,segmentación,Revista Iberoamericana de IA,Revista,47,Pierre Dubois,3,University of Toronto,Canadá
+PUB018,Sistema de manipulación robótica para minería,2024,Robótica,planificación de trayectorias,IROS,Conferencia,38,Marco Rossi,1,University of Oxford,Reino Unido
+PUB018,Sistema de manipulación robótica para minería,2024,Robótica,planificación de trayectorias,IROS,Conferencia,38,Hiroshi Sato,2,Universidad del Pacífico,Perú
+PUB018,Sistema de manipulación robótica para minería,2024,Robótica,planificación de trayectorias,IROS,Conferencia,38,Patricia Salinas,3,Universidad Nacional Mayor de San Marcos,Perú
+PUB018,Sistema de manipulación robótica para minería,2024,Robótica,planificación de trayectorias,IROS,Conferencia,38,Carolina Jiménez,4,Universidad de Buenos Aires,Argentina
+PUB018,Sistema de manipulación robótica para minería,2024,Robótica,planificación de trayectorias,IROS,Conferencia,38,Ethan Davis,5,University of Oxford,Reino Unido
+PUB019,Resumen automático de documentos educación superior,2022,NLP,NER,Nature Machine Intelligence,Revista,45,Lucía Ramírez,1,Technische Universität München,Alemania
+PUB019,Resumen automático de documentos educación superior,2022,NLP,NER,Nature Machine Intelligence,Revista,45,Mateo Herrera,2,ETH Zürich,Suiza
+PUB019,Resumen automático de documentos educación superior,2022,NLP,NER,Nature Machine Intelligence,Revista,45,Ahmed Hassan,3,Universidad Nacional Autónoma de México,México
+PUB020,Aprendizaje por refuerzo aplicado a banca digital,2025,Robótica,percepción,ICRA,Conferencia,1,María Quispe,1,University of Oxford,Reino Unido
+PUB020,Aprendizaje por refuerzo aplicado a banca digital,2025,Robótica,percepción,ICRA,Conferencia,1,Carlos Mendoza,2,Pontificia Universidad Católica de Chile,Chile
+PUB020,Aprendizaje por refuerzo aplicado a banca digital,2025,Robótica,percepción,ICRA,Conferencia,1,Andrés Flores,3,University of Toronto,Canadá
+PUB020,Aprendizaje por refuerzo aplicado a banca digital,2025,Robótica,percepción,ICRA,Conferencia,1,Marco Rossi,4,University of Oxford,Reino Unido
+PUB020,Aprendizaje por refuerzo aplicado a banca digital,2025,Robótica,percepción,ICRA,Conferencia,1,Aiko Tanaka,5,Technische Universität München,Alemania
+PUB021,Fine-tuning de modelos generativos para pesca artesanal,2024,IA Generativa,LLM,Revista Iberoamericana de IA,Revista,34,Valentina Cáceres,1,Pontificia Universidad Católica de Chile,Chile
+PUB021,Fine-tuning de modelos generativos para pesca artesanal,2024,IA Generativa,LLM,Revista Iberoamericana de IA,Revista,34,Lucas Wilson,2,Universidad del Pacífico,Perú
+PUB021,Fine-tuning de modelos generativos para pesca artesanal,2024,IA Generativa,LLM,Revista Iberoamericana de IA,Revista,34,Luis Fernando Ríos,3,Stanford University,Estados Unidos
+PUB021,Fine-tuning de modelos generativos para pesca artesanal,2024,IA Generativa,LLM,Revista Iberoamericana de IA,Revista,34,Paula Bustamante,4,Stanford University,Estados Unidos
+PUB021,Fine-tuning de modelos generativos para pesca artesanal,2024,IA Generativa,LLM,Revista Iberoamericana de IA,Revista,34,Andrés Flores,5,University of Toronto,Canadá
+PUB022,Análisis de sentimiento en redes sociales usando transformers,2023,NLP,chatbots,JIISIC,Conferencia,35,Juan Torres,1,Universidad de Lima,Perú
+PUB022,Análisis de sentimiento en redes sociales usando transformers,2023,NLP,chatbots,JIISIC,Conferencia,35,Camila Rojas,2,Pontificia Universidad Católica del Perú,Perú
+PUB022,Análisis de sentimiento en redes sociales usando transformers,2023,NLP,chatbots,JIISIC,Conferencia,35,Beatriz Olivares,3,Universidad Nacional de Ingeniería,Perú
+PUB023,Análisis de sentimiento en documentos legales usando transformers,2025,NLP,transformers,JIISIC,Conferencia,8,Juan Torres,1,Universidad de Lima,Perú
+PUB023,Análisis de sentimiento en documentos legales usando transformers,2025,NLP,transformers,JIISIC,Conferencia,8,Andrea Salas,2,Universidad de Buenos Aires,Argentina
+PUB023,Análisis de sentimiento en documentos legales usando transformers,2025,NLP,transformers,JIISIC,Conferencia,8,Ethan Davis,3,University of Oxford,Reino Unido
+PUB023,Análisis de sentimiento en documentos legales usando transformers,2025,NLP,transformers,JIISIC,Conferencia,8,Esteban Pacheco,4,Universidad Nacional Autónoma de México,México
+PUB023,Análisis de sentimiento en documentos legales usando transformers,2025,NLP,transformers,JIISIC,Conferencia,8,Marco Rossi,5,University of Oxford,Reino Unido
+PUB024,Fine-tuning de modelos generativos para educación superior,2020,IA Generativa,fine-tuning,Revista Iberoamericana de IA,Revista,52,Luis Fernando Ríos,1,Stanford University,Estados Unidos
+PUB024,Fine-tuning de modelos generativos para educación superior,2020,IA Generativa,fine-tuning,Revista Iberoamericana de IA,Revista,52,María Quispe,2,University of Oxford,Reino Unido
+PUB025,Aplicación de LLMs en turismo,2025,IA Generativa,GPT,Artificial Intelligence Journal,Revista,7,Carlos Mendoza,1,Pontificia Universidad Católica de Chile,Chile
+PUB025,Aplicación de LLMs en turismo,2025,IA Generativa,GPT,Artificial Intelligence Journal,Revista,7,Andrea Salas,2,Universidad de Buenos Aires,Argentina
+PUB026,Detección de lesiones cutáneas mediante redes convolucionales,2021,Visión Computacional,transfer learning,CVPR,Conferencia,64,Beatriz Olivares,1,Universidad Nacional de Ingeniería,Perú
+PUB026,Detección de lesiones cutáneas mediante redes convolucionales,2021,Visión Computacional,transfer learning,CVPR,Conferencia,64,Arjun Patel,2,Pontificia Universidad Católica del Perú,Perú
+PUB027,Interpretabilidad de modelos de ML en historias clínicas,2025,Machine Learning,XGBoost,NeurIPS,Conferencia,6,Juan Torres,1,Universidad de Lima,Perú
+PUB027,Interpretabilidad de modelos de ML en historias clínicas,2025,Machine Learning,XGBoost,NeurIPS,Conferencia,6,Wei Chen,2,University of Oxford,Reino Unido
+PUB027,Interpretabilidad de modelos de ML en historias clínicas,2025,Machine Learning,XGBoost,NeurIPS,Conferencia,6,Alejandro Soto,3,Universidad de los Andes,Colombia
+PUB027,Interpretabilidad de modelos de ML en historias clínicas,2025,Machine Learning,XGBoost,NeurIPS,Conferencia,6,Andrés Flores,4,University of Toronto,Canadá
+PUB028,Segmentación de imágenes documentos legales con deep learning,2025,Visión Computacional,imágenes médicas,CVPR,Conferencia,8,Aiko Tanaka,1,Technische Universität München,Alemania
+PUB028,Segmentación de imágenes documentos legales con deep learning,2025,Visión Computacional,imágenes médicas,CVPR,Conferencia,8,Gabriela Morales,2,Universidad de Buenos Aires,Argentina
+PUB028,Segmentación de imágenes documentos legales con deep learning,2025,Visión Computacional,imágenes médicas,CVPR,Conferencia,8,Jimena Cuba,3,Pontificia Universidad Católica del Perú,Perú
+PUB029,Percepción visual para robótica comercio electrónico,2022,Robótica,aprendizaje por refuerzo,JIISIC,Conferencia,69,Andrés Flores,1,University of Toronto,Canadá
+PUB029,Percepción visual para robótica comercio electrónico,2022,Robótica,aprendizaje por refuerzo,JIISIC,Conferencia,69,Patricia Salinas,2,Universidad Nacional Mayor de San Marcos,Perú
+PUB029,Percepción visual para robótica comercio electrónico,2022,Robótica,aprendizaje por refuerzo,JIISIC,Conferencia,69,Diego Vargas,3,Universidad Politécnica de Madrid,España
+PUB030,Detección de anomalías en banca digital,2024,Machine Learning,clasificación,Nature Machine Intelligence,Revista,23,Mauricio Toledo,1,University of Oxford,Reino Unido
+PUB030,Detección de anomalías en banca digital,2024,Machine Learning,clasificación,Nature Machine Intelligence,Revista,23,Alejandro Soto,2,Universidad de los Andes,Colombia
+PUB030,Detección de anomalías en banca digital,2024,Machine Learning,clasificación,Nature Machine Intelligence,Revista,23,Ricardo Linares,3,Universidad de Chile,Chile
+PUB030,Detección de anomalías en banca digital,2024,Machine Learning,clasificación,Nature Machine Intelligence,Revista,23,Fatima Al-Sayed,4,Stanford University,Estados Unidos
+PUB031,Sistema de recomendación para noticias periodísticas,2021,Sistemas de Recomendación,embeddings de usuario,Information Sciences,Revista,83,Jimena Cuba,1,Pontificia Universidad Católica del Perú,Perú
+PUB031,Sistema de recomendación para noticias periodísticas,2021,Sistemas de Recomendación,embeddings de usuario,Information Sciences,Revista,83,Sofía Castillo,2,University of California Berkeley,Estados Unidos
+PUB032,Filtrado colaborativo aplicado a noticias periodísticas,2024,Sistemas de Recomendación,matrix factorization,Revista Iberoamericana de IA,Revista,3,Diego Vargas,1,Universidad Politécnica de Madrid,España
+PUB032,Filtrado colaborativo aplicado a noticias periodísticas,2024,Sistemas de Recomendación,matrix factorization,Revista Iberoamericana de IA,Revista,3,Luis Fernando Ríos,2,Stanford University,Estados Unidos
+PUB033,Sistema de recomendación para educación superior,2022,Sistemas de Recomendación,embeddings de usuario,KDD,Conferencia,69,Wei Chen,1,University of Oxford,Reino Unido
+PUB033,Sistema de recomendación para educación superior,2022,Sistemas de Recomendación,embeddings de usuario,KDD,Conferencia,69,Natalia Bravo,2,Universidad Nacional Mayor de San Marcos,Perú
+PUB034,Detección de enfermedades en textos en español,2022,NLP,resumen automático,Computational Linguistics,Revista,32,Wei Chen,1,University of Oxford,Reino Unido
+PUB034,Detección de enfermedades en textos en español,2022,NLP,resumen automático,Computational Linguistics,Revista,32,Mateo Herrera,2,ETH Zürich,Suiza
+PUB034,Detección de enfermedades en textos en español,2022,NLP,resumen automático,Computational Linguistics,Revista,32,Ethan Davis,3,University of Oxford,Reino Unido
+PUB034,Detección de enfermedades en textos en español,2022,NLP,resumen automático,Computational Linguistics,Revista,32,Verónica Tapia,4,Pontificia Universidad Católica del Perú,Perú
+PUB035,Detección de rostros mediante redes convolucionales,2025,Visión Computacional,reconocimiento facial,CVPR,Conferencia,0,Fatima Al-Sayed,1,Stanford University,Estados Unidos
+PUB035,Detección de rostros mediante redes convolucionales,2025,Visión Computacional,reconocimiento facial,CVPR,Conferencia,0,Carlos Mendoza,2,Pontificia Universidad Católica de Chile,Chile
+PUB035,Detección de rostros mediante redes convolucionales,2025,Visión Computacional,reconocimiento facial,CVPR,Conferencia,0,Andrea Salas,3,Universidad de Buenos Aires,Argentina
+PUB035,Detección de rostros mediante redes convolucionales,2025,Visión Computacional,reconocimiento facial,CVPR,Conferencia,0,Aiko Tanaka,4,Technische Universität München,Alemania
+PUB035,Detección de rostros mediante redes convolucionales,2025,Visión Computacional,reconocimiento facial,CVPR,Conferencia,0,Noah Williams,5,Universidad Politécnica de Madrid,España
+PUB036,Reconocimiento de rostros en tiempo real,2024,Visión Computacional,transfer learning,CVPR,Conferencia,22,María Quispe,1,University of Oxford,Reino Unido
+PUB036,Reconocimiento de rostros en tiempo real,2024,Visión Computacional,transfer learning,CVPR,Conferencia,22,Priya Sharma,2,Pontificia Universidad Católica del Perú,Perú
+PUB037,Sistema de recomendación para agricultura,2025,Sistemas de Recomendación,matrix factorization,JIISIC,Conferencia,5,Wei Chen,1,University of Oxford,Reino Unido
+PUB037,Sistema de recomendación para agricultura,2025,Sistemas de Recomendación,matrix factorization,JIISIC,Conferencia,5,Jimena Cuba,2,Pontificia Universidad Católica del Perú,Perú
+PUB037,Sistema de recomendación para agricultura,2025,Sistemas de Recomendación,matrix factorization,JIISIC,Conferencia,5,Olivia Brown,3,Universidad de Barcelona,España
+PUB037,Sistema de recomendación para agricultura,2025,Sistemas de Recomendación,matrix factorization,JIISIC,Conferencia,5,Aisha Okonkwo,4,Pontificia Universidad Católica de Chile,Chile
+PUB037,Sistema de recomendación para agricultura,2025,Sistemas de Recomendación,matrix factorization,JIISIC,Conferencia,5,Camila Rojas,5,Pontificia Universidad Católica del Perú,Perú
+PUB038,Planificación de trayectorias en robots minería,2020,Robótica,ROS,JIISIC,Conferencia,75,Andrés Flores,1,University of Toronto,Canadá
+PUB038,Planificación de trayectorias en robots minería,2020,Robótica,ROS,JIISIC,Conferencia,75,Carolina Jiménez,2,Universidad de Buenos Aires,Argentina
+PUB038,Planificación de trayectorias en robots minería,2020,Robótica,ROS,JIISIC,Conferencia,75,Juan Torres,3,Universidad de Lima,Perú
+PUB039,Sistema de respuesta a preguntas para redes académicas,2025,NLP,traducción automática,Nature Machine Intelligence,Revista,5,Mateo Herrera,1,ETH Zürich,Suiza
+PUB039,Sistema de respuesta a preguntas para redes académicas,2025,NLP,traducción automática,Nature Machine Intelligence,Revista,5,Marco Rossi,2,University of Oxford,Reino Unido
+PUB040,Modelo predictivo para turismo,2023,Machine Learning,AutoML,JIISIC,Conferencia,67,Cristina Yáñez,1,Tecnológico de Monterrey,México
+PUB040,Modelo predictivo para turismo,2023,Machine Learning,AutoML,JIISIC,Conferencia,67,Olivia Brown,2,Universidad de Barcelona,España
+PUB041,Reconocimiento de vehículos en tiempo real,2025,Visión Computacional,segmentación,Pattern Recognition,Revista,6,María Quispe,1,University of Oxford,Reino Unido
+PUB041,Reconocimiento de vehículos en tiempo real,2025,Visión Computacional,segmentación,Pattern Recognition,Revista,6,Juan Torres,2,Universidad de Lima,Perú
+PUB041,Reconocimiento de vehículos en tiempo real,2025,Visión Computacional,segmentación,Pattern Recognition,Revista,6,Fernando Aguirre,3,Universidad de los Andes,Colombia
+PUB041,Reconocimiento de vehículos en tiempo real,2025,Visión Computacional,segmentación,Pattern Recognition,Revista,6,Renata Villanueva,4,Universidad de Barcelona,España
+PUB042,Resumen automático de documentos atención al cliente,2025,NLP,transformers,Computación y Sistemas,Revista,5,Andrea Salas,1,Universidad de Buenos Aires,Argentina
+PUB042,Resumen automático de documentos atención al cliente,2025,NLP,transformers,Computación y Sistemas,Revista,5,María Quispe,2,University of Oxford,Reino Unido
+PUB042,Resumen automático de documentos atención al cliente,2025,NLP,transformers,Computación y Sistemas,Revista,5,Ethan Davis,3,University of Oxford,Reino Unido
+PUB042,Resumen automático de documentos atención al cliente,2025,NLP,transformers,Computación y Sistemas,Revista,5,Esteban Pacheco,4,Universidad Nacional Autónoma de México,México
+PUB042,Resumen automático de documentos atención al cliente,2025,NLP,transformers,Computación y Sistemas,Revista,5,Sophia Miller,5,ETH Zürich,Suiza
+PUB043,Sistema de respuesta a preguntas para redes sociales,2025,NLP,análisis de sentimiento,EMNLP,Conferencia,6,Carlos Mendoza,1,Pontificia Universidad Católica de Chile,Chile
+PUB043,Sistema de respuesta a preguntas para redes sociales,2025,NLP,análisis de sentimiento,EMNLP,Conferencia,6,Diego Vargas,2,Universidad Politécnica de Madrid,España
+PUB043,Sistema de respuesta a preguntas para redes sociales,2025,NLP,análisis de sentimiento,EMNLP,Conferencia,6,Rodrigo Cárdenas,3,Universidad de Buenos Aires,Argentina
+PUB043,Sistema de respuesta a preguntas para redes sociales,2025,NLP,análisis de sentimiento,EMNLP,Conferencia,6,Lucía Ramírez,4,Technische Universität München,Alemania
+PUB043,Sistema de respuesta a preguntas para redes sociales,2025,NLP,análisis de sentimiento,EMNLP,Conferencia,6,Anna Schmidt,5,Universidad Nacional de Ingeniería,Perú
+PUB044,Segmentación de imágenes salud pública con deep learning,2024,Visión Computacional,CNN,CVPR,Conferencia,0,Fernando Aguirre,1,Universidad de los Andes,Colombia
+PUB044,Segmentación de imágenes salud pública con deep learning,2024,Visión Computacional,CNN,CVPR,Conferencia,0,Anna Schmidt,2,Universidad Nacional de Ingeniería,Perú
+PUB044,Segmentación de imágenes salud pública con deep learning,2024,Visión Computacional,CNN,CVPR,Conferencia,0,Pablo Echeverría,3,Universidad de Barcelona,España
+PUB045,Percepción visual para robótica atención al cliente,2024,Robótica,percepción,AAAI,Conferencia,46,Ignacio Vega,1,Universidad Nacional Mayor de San Marcos,Perú
+PUB045,Percepción visual para robótica atención al cliente,2024,Robótica,percepción,AAAI,Conferencia,46,Ana Lucía Bermúdez,2,University of Toronto,Canadá
+PUB046,Reconocimiento de vehículos en tiempo real,2023,Visión Computacional,detección de objetos,IEEE TPAMI,Revista,43,Sebastián Paredes,1,Universidad Nacional de Ingeniería,Perú
+PUB046,Reconocimiento de vehículos en tiempo real,2023,Visión Computacional,detección de objetos,IEEE TPAMI,Revista,43,Emma Johnson,2,Tecnológico de Monterrey,México
+PUB046,Reconocimiento de vehículos en tiempo real,2023,Visión Computacional,detección de objetos,IEEE TPAMI,Revista,43,Yuki Nakamura,3,Universidad Nacional Autónoma de México,México
+PUB047,Análisis de sentimiento en minería usando transformers,2022,NLP,tokenización,Information Sciences,Revista,56,Priya Sharma,1,Pontificia Universidad Católica del Perú,Perú
+PUB047,Análisis de sentimiento en minería usando transformers,2022,NLP,tokenización,Information Sciences,Revista,56,Lucía Ramírez,2,Technische Universität München,Alemania
+PUB047,Análisis de sentimiento en minería usando transformers,2022,NLP,tokenización,Information Sciences,Revista,56,Ethan Davis,3,University of Oxford,Reino Unido
+PUB047,Análisis de sentimiento en minería usando transformers,2022,NLP,tokenización,Information Sciences,Revista,56,Liam Anderson,4,Universidad del Pacífico,Perú
+PUB048,Personalización de contenido en plataformas de educación superior,2023,Sistemas de Recomendación,personalización,Information Sciences,Revista,64,Priya Sharma,1,Pontificia Universidad Católica del Perú,Perú
+PUB048,Personalización de contenido en plataformas de educación superior,2023,Sistemas de Recomendación,personalización,Information Sciences,Revista,64,Mónica Delgado,2,Universidad de São Paulo,Brasil
+PUB048,Personalización de contenido en plataformas de educación superior,2023,Sistemas de Recomendación,personalización,Information Sciences,Revista,64,Liam Anderson,3,Universidad del Pacífico,Perú
+PUB049,Percepción visual para robótica turismo,2023,Robótica,control,IEEE Transactions on Robotics,Revista,61,María Quispe,1,University of Oxford,Reino Unido
+PUB049,Percepción visual para robótica turismo,2023,Robótica,control,IEEE Transactions on Robotics,Revista,61,Hiroshi Sato,2,Universidad del Pacífico,Perú
+PUB049,Percepción visual para robótica turismo,2023,Robótica,control,IEEE Transactions on Robotics,Revista,61,Mei Li,3,University of California Berkeley,Estados Unidos
+PUB050,Detección de demanda eléctrica en textos en español,2023,NLP,embeddings,CLEI,Conferencia,36,María Quispe,1,University of Oxford,Reino Unido
+PUB050,Detección de demanda eléctrica en textos en español,2023,NLP,embeddings,CLEI,Conferencia,36,Ethan Davis,2,University of Oxford,Reino Unido
+PUB050,Detección de demanda eléctrica en textos en español,2023,NLP,embeddings,CLEI,Conferencia,36,Camila Rojas,3,Pontificia Universidad Católica del Perú,Perú
+PUB050,Detección de demanda eléctrica en textos en español,2023,NLP,embeddings,CLEI,Conferencia,36,Natalia Bravo,4,Universidad Nacional Mayor de San Marcos,Perú
+PUB050,Detección de demanda eléctrica en textos en español,2023,NLP,embeddings,CLEI,Conferencia,36,Olivia Brown,5,Universidad de Barcelona,España
+PUB051,Modelos multimodales aplicados a redes sociales,2024,IA Generativa,GPT,Information Sciences,Revista,31,Carlos Mendoza,1,Pontificia Universidad Católica de Chile,Chile
+PUB051,Modelos multimodales aplicados a redes sociales,2024,IA Generativa,GPT,Information Sciences,Revista,31,María Quispe,2,University of Oxford,Reino Unido
+PUB052,Planificación de trayectorias en robots transporte urbano,2022,Robótica,SLAM,IROS,Conferencia,53,Hiroshi Sato,1,Universidad del Pacífico,Perú
+PUB052,Planificación de trayectorias en robots transporte urbano,2022,Robótica,SLAM,IROS,Conferencia,53,Andrés Flores,2,University of Toronto,Canadá
+PUB052,Planificación de trayectorias en robots transporte urbano,2022,Robótica,SLAM,IROS,Conferencia,53,Carolina Jiménez,3,Universidad de Buenos Aires,Argentina
+PUB052,Planificación de trayectorias en robots transporte urbano,2022,Robótica,SLAM,IROS,Conferencia,53,Camila Rojas,4,Pontificia Universidad Católica del Perú,Perú
+PUB053,Generación de historias clínicas con modelos de difusión,2024,IA Generativa,GPT,CLEI,Conferencia,14,Valentina Cáceres,1,Pontificia Universidad Católica de Chile,Chile
+PUB053,Generación de historias clínicas con modelos de difusión,2024,IA Generativa,GPT,CLEI,Conferencia,14,Óscar Cornejo,2,Universidad Nacional de Ingeniería,Perú
+PUB053,Generación de historias clínicas con modelos de difusión,2024,IA Generativa,GPT,CLEI,Conferencia,14,Renata Villanueva,3,Universidad de Barcelona,España
+PUB053,Generación de historias clínicas con modelos de difusión,2024,IA Generativa,GPT,CLEI,Conferencia,14,Joaquín Espinoza,4,Universidad de Barcelona,España
+PUB054,Segmentación de imágenes documentos legales con deep learning,2022,Visión Computacional,CNN,AAAI,Conferencia,76,Wei Chen,1,University of Oxford,Reino Unido
+PUB054,Segmentación de imágenes documentos legales con deep learning,2022,Visión Computacional,CNN,AAAI,Conferencia,76,Juan Torres,2,Universidad de Lima,Perú
+PUB054,Segmentación de imágenes documentos legales con deep learning,2022,Visión Computacional,CNN,AAAI,Conferencia,76,Mei Li,3,University of California Berkeley,Estados Unidos
+PUB054,Segmentación de imágenes documentos legales con deep learning,2022,Visión Computacional,CNN,AAAI,Conferencia,76,Aiko Tanaka,4,Technische Universität München,Alemania
+PUB055,Evaluación de prompts en tareas de agricultura,2024,IA Generativa,GPT,JIISIC,Conferencia,50,Wei Chen,1,University of Oxford,Reino Unido
+PUB055,Evaluación de prompts en tareas de agricultura,2024,IA Generativa,GPT,JIISIC,Conferencia,50,Carlos Mendoza,2,Pontificia Universidad Católica de Chile,Chile
+PUB055,Evaluación de prompts en tareas de agricultura,2024,IA Generativa,GPT,JIISIC,Conferencia,50,Renata Villanueva,3,Universidad de Barcelona,España
+PUB055,Evaluación de prompts en tareas de agricultura,2024,IA Generativa,GPT,JIISIC,Conferencia,50,Luis Fernando Ríos,4,Stanford University,Estados Unidos
+PUB055,Evaluación de prompts en tareas de agricultura,2024,IA Generativa,GPT,JIISIC,Conferencia,50,Aisha Okonkwo,5,Pontificia Universidad Católica de Chile,Chile
+PUB056,Aplicación de LLMs en turismo,2021,IA Generativa,prompt engineering,Computación y Sistemas,Revista,95,Valentina Cáceres,1,Pontificia Universidad Católica de Chile,Chile
+PUB056,Aplicación de LLMs en turismo,2021,IA Generativa,prompt engineering,Computación y Sistemas,Revista,95,Paula Bustamante,2,Stanford University,Estados Unidos
+PUB056,Aplicación de LLMs en turismo,2021,IA Generativa,prompt engineering,Computación y Sistemas,Revista,95,Luis Fernando Ríos,3,Stanford University,Estados Unidos
+PUB056,Aplicación de LLMs en turismo,2021,IA Generativa,prompt engineering,Computación y Sistemas,Revista,95,Aiko Tanaka,4,Technische Universität München,Alemania
+PUB057,Sistema de manipulación robótica para transporte urbano,2025,Robótica,ROS,Revista Iberoamericana de IA,Revista,6,Marco Rossi,1,University of Oxford,Reino Unido
+PUB057,Sistema de manipulación robótica para transporte urbano,2025,Robótica,ROS,Revista Iberoamericana de IA,Revista,6,Ignacio Vega,2,Universidad Nacional Mayor de San Marcos,Perú
+PUB057,Sistema de manipulación robótica para transporte urbano,2025,Robótica,ROS,Revista Iberoamericana de IA,Revista,6,Isabella Núñez,3,University of California Berkeley,Estados Unidos
+PUB058,Interpretabilidad de modelos de ML en pesca artesanal,2022,Machine Learning,AutoML,AAAI,Conferencia,77,Wei Chen,1,University of Oxford,Reino Unido
+PUB058,Interpretabilidad de modelos de ML en pesca artesanal,2022,Machine Learning,AutoML,AAAI,Conferencia,77,Noah Williams,2,Universidad Politécnica de Madrid,España
+PUB058,Interpretabilidad de modelos de ML en pesca artesanal,2022,Machine Learning,AutoML,AAAI,Conferencia,77,Marco Antonio Reyes,3,ETH Zürich,Suiza
+PUB058,Interpretabilidad de modelos de ML en pesca artesanal,2022,Machine Learning,AutoML,AAAI,Conferencia,77,Joaquín Espinoza,4,Universidad de Barcelona,España
+PUB059,Resumen automático de documentos historias clínicas,2025,NLP,chatbots,JIISIC,Conferencia,4,Ethan Davis,1,University of Oxford,Reino Unido
+PUB059,Resumen automático de documentos historias clínicas,2025,NLP,chatbots,JIISIC,Conferencia,4,Carolina Jiménez,2,Universidad de Buenos Aires,Argentina
+PUB060,Modelos multimodales aplicados a noticias periodísticas,2024,IA Generativa,RAG,JIISIC,Conferencia,52,Valentina Cáceres,1,Pontificia Universidad Católica de Chile,Chile
+PUB060,Modelos multimodales aplicados a noticias periodísticas,2024,IA Generativa,RAG,JIISIC,Conferencia,52,Natalia Bravo,2,Universidad Nacional Mayor de San Marcos,Perú
+PUB061,Clasificación de minería con algoritmos de ensemble,2024,Machine Learning,validación cruzada,JIISIC,Conferencia,7,Ricardo Linares,1,Universidad de Chile,Chile
+PUB061,Clasificación de minería con algoritmos de ensemble,2024,Machine Learning,validación cruzada,JIISIC,Conferencia,7,Alejandro Soto,2,Universidad de los Andes,Colombia
+PUB061,Clasificación de minería con algoritmos de ensemble,2024,Machine Learning,validación cruzada,JIISIC,Conferencia,7,Marco Antonio Reyes,3,ETH Zürich,Suiza
+PUB061,Clasificación de minería con algoritmos de ensemble,2024,Machine Learning,validación cruzada,JIISIC,Conferencia,7,Aiko Tanaka,4,Technische Universität München,Alemania
+PUB062,Aprendizaje por refuerzo aplicado a turismo,2023,Robótica,control,Computación y Sistemas,Revista,41,Hiroshi Sato,1,Universidad del Pacífico,Perú
+PUB062,Aprendizaje por refuerzo aplicado a turismo,2023,Robótica,control,Computación y Sistemas,Revista,41,Andrés Flores,2,University of Toronto,Canadá
+PUB062,Aprendizaje por refuerzo aplicado a turismo,2023,Robótica,control,Computación y Sistemas,Revista,41,Esteban Pacheco,3,Universidad Nacional Autónoma de México,México
+PUB063,Interpretabilidad de modelos de ML en turismo,2023,Machine Learning,random forest,Artificial Intelligence Journal,Revista,21,Felipe Cárcamo,1,ETH Zürich,Suiza
+PUB063,Interpretabilidad de modelos de ML en turismo,2023,Machine Learning,random forest,Artificial Intelligence Journal,Revista,21,Mateo Herrera,2,ETH Zürich,Suiza
+PUB064,Percepción visual para robótica educación superior,2024,Robótica,SLAM,IROS,Conferencia,44,Marco Rossi,1,University of Oxford,Reino Unido
+PUB064,Percepción visual para robótica educación superior,2024,Robótica,SLAM,IROS,Conferencia,44,Jian Wang,2,Universidad Politécnica de Madrid,España
+PUB065,Modelo predictivo para salud pública,2023,Machine Learning,XGBoost,KDD,Conferencia,15,Carlos Mendoza,1,Pontificia Universidad Católica de Chile,Chile
+PUB065,Modelo predictivo para salud pública,2023,Machine Learning,XGBoost,KDD,Conferencia,15,Diego Vargas,2,Universidad Politécnica de Madrid,España
+PUB065,Modelo predictivo para salud pública,2023,Machine Learning,XGBoost,KDD,Conferencia,15,Liam Anderson,3,Universidad del Pacífico,Perú
+PUB066,Evaluación de prompts en tareas de comercio electrónico,2024,IA Generativa,difusión,ICLR,Conferencia,28,Óscar Cornejo,1,Universidad Nacional de Ingeniería,Perú
+PUB066,Evaluación de prompts en tareas de comercio electrónico,2024,IA Generativa,difusión,ICLR,Conferencia,28,Renata Villanueva,2,Universidad de Barcelona,España
+PUB066,Evaluación de prompts en tareas de comercio electrónico,2024,IA Generativa,difusión,ICLR,Conferencia,28,Sophia Miller,3,ETH Zürich,Suiza
+PUB067,Personalización de contenido en plataformas de banca digital,2024,Sistemas de Recomendación,deep learning,RecSys,Conferencia,29,Juan Torres,1,Universidad de Lima,Perú
+PUB067,Personalización de contenido en plataformas de banca digital,2024,Sistemas de Recomendación,deep learning,RecSys,Conferencia,29,Ahmed Hassan,2,Universidad Nacional Autónoma de México,México
+PUB067,Personalización de contenido en plataformas de banca digital,2024,Sistemas de Recomendación,deep learning,RecSys,Conferencia,29,Verónica Tapia,3,Pontificia Universidad Católica del Perú,Perú
+PUB067,Personalización de contenido en plataformas de banca digital,2024,Sistemas de Recomendación,deep learning,RecSys,Conferencia,29,Daniela Ponce,4,Universidad del Pacífico,Perú
+PUB067,Personalización de contenido en plataformas de banca digital,2024,Sistemas de Recomendación,deep learning,RecSys,Conferencia,29,Lucas Wilson,5,Universidad del Pacífico,Perú
+PUB068,Planificación de trayectorias en robots atención al cliente,2022,Robótica,navegación autónoma,Revista Iberoamericana de IA,Revista,65,Priya Sharma,1,Pontificia Universidad Católica del Perú,Perú
+PUB068,Planificación de trayectorias en robots atención al cliente,2022,Robótica,navegación autónoma,Revista Iberoamericana de IA,Revista,65,Juan Torres,2,Universidad de Lima,Perú
+PUB068,Planificación de trayectorias en robots atención al cliente,2022,Robótica,navegación autónoma,Revista Iberoamericana de IA,Revista,65,Hiroshi Sato,3,Universidad del Pacífico,Perú
+PUB068,Planificación de trayectorias en robots atención al cliente,2022,Robótica,navegación autónoma,Revista Iberoamericana de IA,Revista,65,Marco Rossi,4,University of Oxford,Reino Unido
+PUB068,Planificación de trayectorias en robots atención al cliente,2022,Robótica,navegación autónoma,Revista Iberoamericana de IA,Revista,65,Mateo Herrera,5,ETH Zürich,Suiza
+PUB069,Detección de vehículos mediante redes convolucionales,2023,Visión Computacional,segmentación,ICCV,Conferencia,36,Aiko Tanaka,1,Technische Universität München,Alemania
+PUB069,Detección de vehículos mediante redes convolucionales,2023,Visión Computacional,segmentación,ICCV,Conferencia,36,Emma Johnson,2,Tecnológico de Monterrey,México
+PUB069,Detección de vehículos mediante redes convolucionales,2023,Visión Computacional,segmentación,ICCV,Conferencia,36,Beatriz Olivares,3,Universidad Nacional de Ingeniería,Perú
+PUB069,Detección de vehículos mediante redes convolucionales,2023,Visión Computacional,segmentación,ICCV,Conferencia,36,Sebastián Paredes,4,Universidad Nacional de Ingeniería,Perú
+PUB069,Detección de vehículos mediante redes convolucionales,2023,Visión Computacional,segmentación,ICCV,Conferencia,36,Esteban Pacheco,5,Universidad Nacional Autónoma de México,México
+PUB070,Generación de turismo con modelos de difusión,2021,IA Generativa,GPT,NeurIPS,Conferencia,109,Valentina Cáceres,1,Pontificia Universidad Católica de Chile,Chile
+PUB070,Generación de turismo con modelos de difusión,2021,IA Generativa,GPT,NeurIPS,Conferencia,109,Lucas Wilson,2,Universidad del Pacífico,Perú
+PUB070,Generación de turismo con modelos de difusión,2021,IA Generativa,GPT,NeurIPS,Conferencia,109,Renata Villanueva,3,Universidad de Barcelona,España
+PUB070,Generación de turismo con modelos de difusión,2021,IA Generativa,GPT,NeurIPS,Conferencia,109,Emma Johnson,4,Tecnológico de Monterrey,México
+PUB071,Clasificación automática de educación superior mediante BERT,2025,NLP,resumen automático,Revista Iberoamericana de IA,Revista,3,Natalia Bravo,1,Universidad Nacional Mayor de San Marcos,Perú
+PUB071,Clasificación automática de educación superior mediante BERT,2025,NLP,resumen automático,Revista Iberoamericana de IA,Revista,3,Rodrigo Cárdenas,2,Universidad de Buenos Aires,Argentina
+PUB071,Clasificación automática de educación superior mediante BERT,2025,NLP,resumen automático,Revista Iberoamericana de IA,Revista,3,María Quispe,3,University of Oxford,Reino Unido
+PUB071,Clasificación automática de educación superior mediante BERT,2025,NLP,resumen automático,Revista Iberoamericana de IA,Revista,3,Pierre Dubois,4,University of Toronto,Canadá
+PUB072,Segmentación de imágenes pesca artesanal con deep learning,2025,Visión Computacional,YOLO,Artificial Intelligence Journal,Revista,7,Priya Sharma,1,Pontificia Universidad Católica del Perú,Perú
+PUB072,Segmentación de imágenes pesca artesanal con deep learning,2025,Visión Computacional,YOLO,Artificial Intelligence Journal,Revista,7,Andrea Salas,2,Universidad de Buenos Aires,Argentina
+PUB072,Segmentación de imágenes pesca artesanal con deep learning,2025,Visión Computacional,YOLO,Artificial Intelligence Journal,Revista,7,Fatima Al-Sayed,3,Stanford University,Estados Unidos
+PUB072,Segmentación de imágenes pesca artesanal con deep learning,2025,Visión Computacional,YOLO,Artificial Intelligence Journal,Revista,7,Gabriela Morales,4,Universidad de Buenos Aires,Argentina
+PUB072,Segmentación de imágenes pesca artesanal con deep learning,2025,Visión Computacional,YOLO,Artificial Intelligence Journal,Revista,7,María Quispe,5,University of Oxford,Reino Unido
+PUB073,Navegación autónoma de robots en comercio electrónico,2022,Robótica,control,CLEI,Conferencia,56,María Quispe,1,University of Oxford,Reino Unido
+PUB073,Navegación autónoma de robots en comercio electrónico,2022,Robótica,control,CLEI,Conferencia,56,Priya Sharma,2,Pontificia Universidad Católica del Perú,Perú
+PUB074,Recomendación basada en deep learning para agricultura,2025,Sistemas de Recomendación,personalización,CLEI,Conferencia,0,Joaquín Espinoza,1,Universidad de Barcelona,España
+PUB074,Recomendación basada en deep learning para agricultura,2025,Sistemas de Recomendación,personalización,CLEI,Conferencia,0,Olivia Brown,2,Universidad de Barcelona,España
+PUB074,Recomendación basada en deep learning para agricultura,2025,Sistemas de Recomendación,personalización,CLEI,Conferencia,0,Ahmed Hassan,3,Universidad Nacional Autónoma de México,México
+PUB074,Recomendación basada en deep learning para agricultura,2025,Sistemas de Recomendación,personalización,CLEI,Conferencia,0,Patricia Salinas,4,Universidad Nacional Mayor de San Marcos,Perú
+PUB075,Modelo predictivo para educación superior,2021,Machine Learning,validación cruzada,Nature Machine Intelligence,Revista,93,Hans Müller,1,Universidad Nacional Autónoma de México,México
+PUB075,Modelo predictivo para educación superior,2021,Machine Learning,validación cruzada,Nature Machine Intelligence,Revista,93,Rodrigo Cárdenas,2,Universidad de Buenos Aires,Argentina
+PUB076,Análisis de sentimiento en redes académicas usando transformers,2023,NLP,BERT,Nature Machine Intelligence,Revista,39,Esteban Pacheco,1,Universidad Nacional Autónoma de México,México
+PUB076,Análisis de sentimiento en redes académicas usando transformers,2023,NLP,BERT,Nature Machine Intelligence,Revista,39,Mateo Herrera,2,ETH Zürich,Suiza
+PUB076,Análisis de sentimiento en redes académicas usando transformers,2023,NLP,BERT,Nature Machine Intelligence,Revista,39,Arjun Patel,3,Pontificia Universidad Católica del Perú,Perú
+PUB077,Personalización de contenido en plataformas de comercio electrónico,2021,Sistemas de Recomendación,filtrado colaborativo,Computación y Sistemas,Revista,114,Diego Vargas,1,Universidad Politécnica de Madrid,España
+PUB077,Personalización de contenido en plataformas de comercio electrónico,2021,Sistemas de Recomendación,filtrado colaborativo,Computación y Sistemas,Revista,114,Wei Chen,2,University of Oxford,Reino Unido
+PUB077,Personalización de contenido en plataformas de comercio electrónico,2021,Sistemas de Recomendación,filtrado colaborativo,Computación y Sistemas,Revista,114,Mónica Delgado,3,Universidad de São Paulo,Brasil
+PUB077,Personalización de contenido en plataformas de comercio electrónico,2021,Sistemas de Recomendación,filtrado colaborativo,Computación y Sistemas,Revista,114,Daniela Ponce,4,Universidad del Pacífico,Perú
+PUB077,Personalización de contenido en plataformas de comercio electrónico,2021,Sistemas de Recomendación,filtrado colaborativo,Computación y Sistemas,Revista,114,María Quispe,5,University of Oxford,Reino Unido
+PUB078,Interpretabilidad de modelos de ML en transporte urbano,2025,Machine Learning,validación cruzada,JIISIC,Conferencia,1,Ricardo Linares,1,Universidad de Chile,Chile
+PUB078,Interpretabilidad de modelos de ML en transporte urbano,2025,Machine Learning,validación cruzada,JIISIC,Conferencia,1,Hans Müller,2,Universidad Nacional Autónoma de México,México
+PUB078,Interpretabilidad de modelos de ML en transporte urbano,2025,Machine Learning,validación cruzada,JIISIC,Conferencia,1,Alejandro Soto,3,Universidad de los Andes,Colombia
+PUB078,Interpretabilidad de modelos de ML en transporte urbano,2025,Machine Learning,validación cruzada,JIISIC,Conferencia,1,Priya Sharma,4,Pontificia Universidad Católica del Perú,Perú
+PUB079,Análisis automático de historias clínicas mediante visión computacional,2025,Visión Computacional,YOLO,JIISIC,Conferencia,4,Carlos Mendoza,1,Pontificia Universidad Católica de Chile,Chile
+PUB079,Análisis automático de historias clínicas mediante visión computacional,2025,Visión Computacional,YOLO,JIISIC,Conferencia,4,Mei Li,2,University of California Berkeley,Estados Unidos
+PUB080,Análisis automático de documentos legales mediante visión computacional,2025,Visión Computacional,segmentación,Pattern Recognition,Revista,1,Juan Torres,1,Universidad de Lima,Perú
+PUB080,Análisis automático de documentos legales mediante visión computacional,2025,Visión Computacional,segmentación,Pattern Recognition,Revista,1,Mei Li,2,University of California Berkeley,Estados Unidos
+PUB080,Análisis automático de documentos legales mediante visión computacional,2025,Visión Computacional,segmentación,Pattern Recognition,Revista,1,Fernando Aguirre,3,Universidad de los Andes,Colombia
+PUB080,Análisis automático de documentos legales mediante visión computacional,2025,Visión Computacional,segmentación,Pattern Recognition,Revista,1,Emma Johnson,4,Tecnológico de Monterrey,México
+PUB080,Análisis automático de documentos legales mediante visión computacional,2025,Visión Computacional,segmentación,Pattern Recognition,Revista,1,Esteban Pacheco,5,Universidad Nacional Autónoma de México,México
+PUB081,Clasificación de imágenes turismo usando transfer learning,2022,Visión Computacional,reconocimiento facial,ICCV,Conferencia,29,Wei Chen,1,University of Oxford,Reino Unido
+PUB081,Clasificación de imágenes turismo usando transfer learning,2022,Visión Computacional,reconocimiento facial,ICCV,Conferencia,29,Juan Torres,2,Universidad de Lima,Perú
+PUB081,Clasificación de imágenes turismo usando transfer learning,2022,Visión Computacional,reconocimiento facial,ICCV,Conferencia,29,Beatriz Olivares,3,Universidad Nacional de Ingeniería,Perú
+PUB081,Clasificación de imágenes turismo usando transfer learning,2022,Visión Computacional,reconocimiento facial,ICCV,Conferencia,29,Patricia Salinas,4,Universidad Nacional Mayor de San Marcos,Perú
+PUB082,Modelos de lenguaje aplicados a atención al cliente,2022,NLP,resumen automático,CLEI,Conferencia,60,Natalia Bravo,1,Universidad Nacional Mayor de San Marcos,Perú
+PUB082,Modelos de lenguaje aplicados a atención al cliente,2022,NLP,resumen automático,CLEI,Conferencia,60,Mateo Herrera,2,ETH Zürich,Suiza
+PUB082,Modelos de lenguaje aplicados a atención al cliente,2022,NLP,resumen automático,CLEI,Conferencia,60,Verónica Tapia,3,Pontificia Universidad Católica del Perú,Perú
+PUB083,Clasificación de agricultura con algoritmos de ensemble,2024,Machine Learning,interpretabilidad,AAAI,Conferencia,12,Alejandro Soto,1,Universidad de los Andes,Colombia
+PUB083,Clasificación de agricultura con algoritmos de ensemble,2024,Machine Learning,interpretabilidad,AAAI,Conferencia,12,Arjun Patel,2,Pontificia Universidad Católica del Perú,Perú
+PUB083,Clasificación de agricultura con algoritmos de ensemble,2024,Machine Learning,interpretabilidad,AAAI,Conferencia,12,Carlos Mendoza,3,Pontificia Universidad Católica de Chile,Chile
+PUB084,Aplicación de LLMs en redes sociales,2025,IA Generativa,prompt engineering,ICLR,Conferencia,5,Juan Torres,1,Universidad de Lima,Perú
+PUB084,Aplicación de LLMs en redes sociales,2025,IA Generativa,prompt engineering,ICLR,Conferencia,5,Luis Fernando Ríos,2,Stanford University,Estados Unidos
+PUB084,Aplicación de LLMs en redes sociales,2025,IA Generativa,prompt engineering,ICLR,Conferencia,5,Lucas Wilson,3,Universidad del Pacífico,Perú
+PUB084,Aplicación de LLMs en redes sociales,2025,IA Generativa,prompt engineering,ICLR,Conferencia,5,Valentina Cáceres,4,Pontificia Universidad Católica de Chile,Chile
+PUB084,Aplicación de LLMs en redes sociales,2025,IA Generativa,prompt engineering,ICLR,Conferencia,5,Priya Sharma,5,Pontificia Universidad Católica del Perú,Perú
+PUB085,Clasificación de imágenes turismo usando transfer learning,2024,Visión Computacional,segmentación,Computación y Sistemas,Revista,10,Aiko Tanaka,1,Technische Universität München,Alemania
+PUB085,Clasificación de imágenes turismo usando transfer learning,2024,Visión Computacional,segmentación,Computación y Sistemas,Revista,10,Gabriela Morales,2,Universidad de Buenos Aires,Argentina
+PUB085,Clasificación de imágenes turismo usando transfer learning,2024,Visión Computacional,segmentación,Computación y Sistemas,Revista,10,Joaquín Espinoza,3,Universidad de Barcelona,España
+PUB086,Detección de defectos industriales mediante redes convolucionales,2023,Visión Computacional,data augmentation,ICCV,Conferencia,53,Beatriz Olivares,1,Universidad Nacional de Ingeniería,Perú
+PUB086,Detección de defectos industriales mediante redes convolucionales,2023,Visión Computacional,data augmentation,ICCV,Conferencia,53,Mei Li,2,University of California Berkeley,Estados Unidos
+PUB086,Detección de defectos industriales mediante redes convolucionales,2023,Visión Computacional,data augmentation,ICCV,Conferencia,53,Yuki Nakamura,3,Universidad Nacional Autónoma de México,México
+PUB087,Detección de anomalías en agricultura,2022,Machine Learning,AutoML,Journal of Machine Learning Research,Revista,78,Carlos Mendoza,1,Pontificia Universidad Católica de Chile,Chile
+PUB087,Detección de anomalías en agricultura,2022,Machine Learning,AutoML,Journal of Machine Learning Research,Revista,78,Marco Antonio Reyes,2,ETH Zürich,Suiza
+PUB088,Detección de anomalías en atención al cliente,2023,Machine Learning,AutoML,Computación y Sistemas,Revista,40,Carlos Mendoza,1,Pontificia Universidad Católica de Chile,Chile
+PUB088,Detección de anomalías en atención al cliente,2023,Machine Learning,AutoML,Computación y Sistemas,Revista,40,Arjun Patel,2,Pontificia Universidad Católica del Perú,Perú
+PUB089,Clasificación de imágenes turismo usando transfer learning,2024,Visión Computacional,transfer learning,CLEI,Conferencia,40,Carlos Mendoza,1,Pontificia Universidad Católica de Chile,Chile
+PUB089,Clasificación de imágenes turismo usando transfer learning,2024,Visión Computacional,transfer learning,CLEI,Conferencia,40,Diego Vargas,2,Universidad Politécnica de Madrid,España
+PUB089,Clasificación de imágenes turismo usando transfer learning,2024,Visión Computacional,transfer learning,CLEI,Conferencia,40,Fernando Aguirre,3,Universidad de los Andes,Colombia
+PUB090,Sistema de manipulación robótica para minería,2023,Robótica,planificación de trayectorias,JIISIC,Conferencia,21,Patricia Salinas,1,Universidad Nacional Mayor de San Marcos,Perú
+PUB090,Sistema de manipulación robótica para minería,2023,Robótica,planificación de trayectorias,JIISIC,Conferencia,21,Hiroshi Sato,2,Universidad del Pacífico,Perú
+PUB090,Sistema de manipulación robótica para minería,2023,Robótica,planificación de trayectorias,JIISIC,Conferencia,21,Verónica Tapia,3,Pontificia Universidad Católica del Perú,Perú
+PUB091,Detección de anomalías en agricultura,2022,Machine Learning,XGBoost,ICLR,Conferencia,30,Felipe Cárcamo,1,ETH Zürich,Suiza
+PUB091,Detección de anomalías en agricultura,2022,Machine Learning,XGBoost,ICLR,Conferencia,30,Mauricio Toledo,2,University of Oxford,Reino Unido
+PUB091,Detección de anomalías en agricultura,2022,Machine Learning,XGBoost,ICLR,Conferencia,30,Sophie Laurent,3,Universidad Estatal de Campinas,Brasil
+PUB092,Recomendación basada en deep learning para atención al cliente,2024,Sistemas de Recomendación,embeddings de usuario,RecSys,Conferencia,28,Aisha Okonkwo,1,Pontificia Universidad Católica de Chile,Chile
+PUB092,Recomendación basada en deep learning para atención al cliente,2024,Sistemas de Recomendación,embeddings de usuario,RecSys,Conferencia,28,Daniela Ponce,2,Universidad del Pacífico,Perú
+PUB092,Recomendación basada en deep learning para atención al cliente,2024,Sistemas de Recomendación,embeddings de usuario,RecSys,Conferencia,28,Ethan Davis,3,University of Oxford,Reino Unido
+PUB093,Análisis de sentimiento en banca digital usando transformers,2024,NLP,chatbots,Computación y Sistemas,Revista,37,Juan Torres,1,Universidad de Lima,Perú
+PUB093,Análisis de sentimiento en banca digital usando transformers,2024,NLP,chatbots,Computación y Sistemas,Revista,37,Diego Vargas,2,Universidad Politécnica de Madrid,España
+PUB094,Sistema de respuesta a preguntas para redes académicas,2025,NLP,transformers,ACL,Conferencia,2,Andrea Salas,1,Universidad de Buenos Aires,Argentina
+PUB094,Sistema de respuesta a preguntas para redes académicas,2025,NLP,transformers,ACL,Conferencia,2,Sofía Castillo,2,University of California Berkeley,Estados Unidos
+PUB094,Sistema de respuesta a preguntas para redes académicas,2025,NLP,transformers,ACL,Conferencia,2,Paula Bustamante,3,Stanford University,Estados Unidos
+PUB095,Detección de anomalías en comercio electrónico,2021,Machine Learning,feature engineering,ICML,Conferencia,17,Hans Müller,1,Universidad Nacional Autónoma de México,México
+PUB095,Detección de anomalías en comercio electrónico,2021,Machine Learning,feature engineering,ICML,Conferencia,17,Liam Anderson,2,Universidad del Pacífico,Perú
+PUB095,Detección de anomalías en comercio electrónico,2021,Machine Learning,feature engineering,ICML,Conferencia,17,Ana Lucía Bermúdez,3,University of Toronto,Canadá
+PUB096,Personalización de contenido en plataformas de minería,2023,Sistemas de Recomendación,ranking,Computación y Sistemas,Revista,46,Diego Vargas,1,Universidad Politécnica de Madrid,España
+PUB096,Personalización de contenido en plataformas de minería,2023,Sistemas de Recomendación,ranking,Computación y Sistemas,Revista,46,Jimena Cuba,2,Pontificia Universidad Católica del Perú,Perú
+PUB096,Personalización de contenido en plataformas de minería,2023,Sistemas de Recomendación,ranking,Computación y Sistemas,Revista,46,Verónica Tapia,3,Pontificia Universidad Católica del Perú,Perú
+PUB096,Personalización de contenido en plataformas de minería,2023,Sistemas de Recomendación,ranking,Computación y Sistemas,Revista,46,Mónica Delgado,4,Universidad de São Paulo,Brasil
+PUB096,Personalización de contenido en plataformas de minería,2023,Sistemas de Recomendación,ranking,Computación y Sistemas,Revista,46,Patricia Salinas,5,Universidad Nacional Mayor de San Marcos,Perú
+PUB097,Generación de minería con modelos de difusión,2025,IA Generativa,GANs,ICLR,Conferencia,8,Renata Villanueva,1,Universidad de Barcelona,España
+PUB097,Generación de minería con modelos de difusión,2025,IA Generativa,GANs,ICLR,Conferencia,8,Óscar Cornejo,2,Universidad Nacional de Ingeniería,Perú
+PUB097,Generación de minería con modelos de difusión,2025,IA Generativa,GANs,ICLR,Conferencia,8,Lucas Wilson,3,Universidad del Pacífico,Perú
+PUB097,Generación de minería con modelos de difusión,2025,IA Generativa,GANs,ICLR,Conferencia,8,Luis Fernando Ríos,4,Stanford University,Estados Unidos
+PUB097,Generación de minería con modelos de difusión,2025,IA Generativa,GANs,ICLR,Conferencia,8,Ethan Davis,5,University of Oxford,Reino Unido
+PUB098,Modelos multimodales aplicados a salud pública,2025,IA Generativa,LLM,ICML,Conferencia,0,Óscar Cornejo,1,Universidad Nacional de Ingeniería,Perú
+PUB098,Modelos multimodales aplicados a salud pública,2025,IA Generativa,LLM,ICML,Conferencia,0,Lucas Wilson,2,Universidad del Pacífico,Perú
+PUB098,Modelos multimodales aplicados a salud pública,2025,IA Generativa,LLM,ICML,Conferencia,0,Renata Villanueva,3,Universidad de Barcelona,España
+PUB098,Modelos multimodales aplicados a salud pública,2025,IA Generativa,LLM,ICML,Conferencia,0,Diego Vargas,4,Universidad Politécnica de Madrid,España
+PUB099,Interpretabilidad de modelos de ML en historias clínicas,2023,Machine Learning,feature engineering,Nature Machine Intelligence,Revista,31,Liam Anderson,1,Universidad del Pacífico,Perú
+PUB099,Interpretabilidad de modelos de ML en historias clínicas,2023,Machine Learning,feature engineering,Nature Machine Intelligence,Revista,31,Yuki Nakamura,2,Universidad Nacional Autónoma de México,México
+PUB099,Interpretabilidad de modelos de ML en historias clínicas,2023,Machine Learning,feature engineering,Nature Machine Intelligence,Revista,31,Hugo Carrasco,3,Pontificia Universidad Católica de Chile,Chile
+PUB099,Interpretabilidad de modelos de ML en historias clínicas,2023,Machine Learning,feature engineering,Nature Machine Intelligence,Revista,31,Cristina Yáñez,4,Tecnológico de Monterrey,México
+PUB099,Interpretabilidad de modelos de ML en historias clínicas,2023,Machine Learning,feature engineering,Nature Machine Intelligence,Revista,31,Joaquín Espinoza,5,Universidad de Barcelona,España
+PUB100,Sistema de manipulación robótica para turismo,2024,Robótica,SLAM,ICRA,Conferencia,13,Marco Rossi,1,University of Oxford,Reino Unido
+PUB100,Sistema de manipulación robótica para turismo,2024,Robótica,SLAM,ICRA,Conferencia,13,Hiroshi Sato,2,Universidad del Pacífico,Perú
+PUB100,Sistema de manipulación robótica para turismo,2024,Robótica,SLAM,ICRA,Conferencia,13,Andrés Flores,3,University of Toronto,Canadá
+PUB100,Sistema de manipulación robótica para turismo,2024,Robótica,SLAM,ICRA,Conferencia,13,Ignacio Vega,4,Universidad Nacional Mayor de San Marcos,Perú
+PUB100,Sistema de manipulación robótica para turismo,2024,Robótica,SLAM,ICRA,Conferencia,13,Ethan Davis,5,University of Oxford,Reino Unido
